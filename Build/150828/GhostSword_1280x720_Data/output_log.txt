@@ -1,0 +1,82 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Parallels Display Adapter (WDDM) (ID=0x4005)
+    Vendor:   Parallels
+    VRAM:     256 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Unity\SchoolStudy\00_MakeGame\GhostSword\Build\150828\GhostSword_1280x720_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Unity\SchoolStudy\00_MakeGame\GhostSword\Build\150828\GhostSword_1280x720_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Unity\SchoolStudy\00_MakeGame\GhostSword\Build\150828\GhostSword_1280x720_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Unity\SchoolStudy\00_MakeGame\GhostSword\Build\150828\GhostSword_1280x720_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Unity\SchoolStudy\00_MakeGame\GhostSword\Build\150828\GhostSword_1280x720_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Unity\SchoolStudy\00_MakeGame\GhostSword\Build\150828\GhostSword_1280x720_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Unity\SchoolStudy\00_MakeGame\GhostSword\Build\150828\GhostSword_1280x720_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Unity\SchoolStudy\00_MakeGame\GhostSword\Build\150828\GhostSword_1280x720_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Unity\SchoolStudy\00_MakeGame\GhostSword\Build\150828\GhostSword_1280x720_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Unity\SchoolStudy\00_MakeGame\GhostSword\Build\150828\GhostSword_1280x720_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.203 seconds
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Unity\SchoolStudy\00_MakeGame\GhostSword\Build\150828\GhostSword_1280x720_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Unity\SchoolStudy\00_MakeGame\GhostSword\Build\150828\GhostSword_1280x720_Data\Managed\System.dll (this message is harmless)
+메인 이벤트
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.911700 ms
+게임 이벤트
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 727.
+Total: 1.468100 ms (FindLiveObjects: 0.164000 ms CreateObjectMapping: 0.138300 ms MarkObjects: 0.678600 ms  DeleteObjects: 0.479100 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.010000 ms
+
+Unloading 189 unused Assets to reduce memory usage. Loaded Objects now: 313.
+Total: 2.250100 ms (FindLiveObjects: 0.048600 ms CreateObjectMapping: 0.032200 ms MarkObjects: 0.504900 ms  DeleteObjects: 1.660500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.732800 ms
+메인 이벤트
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 693.
+Total: 0.533100 ms (FindLiveObjects: 0.051800 ms CreateObjectMapping: 0.049700 ms MarkObjects: 0.414500 ms  DeleteObjects: 0.014800 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.401700 ms
+게임 이벤트
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 727.
+Total: 2.316800 ms (FindLiveObjects: 0.060100 ms CreateObjectMapping: 0.032000 ms MarkObjects: 1.534300 ms  DeleteObjects: 0.687200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.785000 ms
+
+Unloading 185 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 1.100300 ms (FindLiveObjects: 0.204400 ms CreateObjectMapping: 0.041500 ms MarkObjects: 0.449500 ms  DeleteObjects: 0.399500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.300100 ms
+메인 이벤트
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 693.
+Total: 1.237400 ms (FindLiveObjects: 0.058900 ms CreateObjectMapping: 0.033200 ms MarkObjects: 1.123800 ms  DeleteObjects: 0.019100 ms)
+
